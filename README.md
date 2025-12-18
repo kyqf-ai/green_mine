@@ -137,4 +137,4 @@ Q: 上传文件提示“目录不可写”？
 A: 请检查 public/uploads/ 目录及其子目录的权限。Linux 下建议设为 755 或 777，且属主为 Web 服务器运行用户。
 
 📄 版权信息
-Copyright © 2025 四川商舟实业有限公司. All Rights Reserved.
+Copyright © 2025 SiChuan Shangzhou Industrial Co.,Ltd. All Rights Reserved.
